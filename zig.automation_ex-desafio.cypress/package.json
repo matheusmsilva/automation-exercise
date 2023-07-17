@@ -1,0 +1,12 @@
+{
+  "name": "zig.automation_ex-teste-tecnicno.cypress",
+  "version": "1.0.0",
+  "description": "Desafio técnico para o processo seletivo na Zig",
+  "main": "index.js",
+  "author": "Matheus Mota",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.1"
+  }
+}

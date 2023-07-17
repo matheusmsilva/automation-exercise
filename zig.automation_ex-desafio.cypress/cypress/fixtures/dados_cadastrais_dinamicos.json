@@ -1,0 +1,27 @@
+{
+  "web": {
+    "nome": "Shania",
+    "sobrenome": "Kuvalis",
+    "email": "GXRAxw@email.com",
+    "senha": "bjf0s6",
+    "endereco": "679 Rashawn Creek",
+    "pais": "New Zealand",
+    "estado": "Wyoming",
+    "cidade": "Katelynnhaven",
+    "cep": "44686-8791",
+    "telefone": "46651399"
+  },
+  "api": {
+    "name": "Destin",
+    "firstname": "Giovanni",
+    "lastname": "Leuschke",
+    "email": "9EZD0t@email.com",
+    "password": "SuUgaI",
+    "address1": "72266 Kiehn Roads",
+    "country": "New Zealand",
+    "state": "Alaska",
+    "city": "Justonton",
+    "zipcode": "14602-1109",
+    "mobile_number": "42614103"
+  }
+}
